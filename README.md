@@ -48,13 +48,13 @@ Requires Python 3.14+ and [uv](https://docs.astral.sh/uv/).
 ```bash
 uv sync --frozen
 
-export BMS_URL="https://in.bookmyshow.com/movies/chennai/.../ET00123456"
-export BMS_DATES="20260318,20260319"
-export BMS_THEATRE="PVR"
-export BMS_TIME="evening,night"
-export RESEND_API_KEY="re_..."
-export RESEND_TO_EMAIL="you@example.com"
-export RESEND_TO_EMAIL="python@resend.dev"
+export BMS_URL="https://in.bookmyshow.com/movies/hyderabad/the-odyssey/ET00452034"
+export BMS_DATES="20260730,20260801"
+export BMS_THEATRE="prasads"
+export BMS_TIME="afternoon,evening,night"
+export RESEND_API_KEY=""
+export RESEND_TO_EMAIL="kairavbansal@gmail.com"
+export RESEND_TO_EMAIL="onboarding@resend.dev"
 
 uv run main.py
 ```
