@@ -1,17 +1,7 @@
 {
-  "shows": {
-    "PRHN|254124|20260802|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:35 PM",
-      "date": "20260802",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "2"
-    }
-  },
+  "shows": {},
   "dates": {
-    "20260802": "BOOKABLE",
-    "20260803": "AVAILABLE",
+    "20260803": "BOOKABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
     "20260806": "AVAILABLE",
