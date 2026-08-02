@@ -1,13 +1,5 @@
 {
   "shows": {
-    "PRHN|254122|20260802|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "02:10 PM",
-      "date": "20260802",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
     "PRHN|254123|20260802|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "05:30 PM",
@@ -22,7 +14,7 @@
       "date": "20260802",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
